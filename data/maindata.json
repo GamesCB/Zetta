@@ -1,0 +1,16 @@
+{
+    "achievements": {
+        "старый телевизор": true,
+        "кен": false,
+        "система": true,
+        "игровой автомат": false,
+        "глюк": false,
+        "error": false
+    },
+    "tutorial": false,
+    "volume_music": 0.16,
+    "volume_sound": 0.15,
+    "FPS": 0,
+    "CAMmode": 0,
+    "FullScreen": 1
+}

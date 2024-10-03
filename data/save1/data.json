@@ -1,0 +1,12 @@
+{
+    "pos_x": 1000568,
+    "pos_y": 1000480,
+    "name_chr" : "first-game",
+    "timesec": 2385,
+    "status": "рабочий день",
+    "dialog_before_exp": false,
+    "launched": false,
+    "changed_view_once": true,
+    "activated_again": true,
+    "exit_to_street": true
+}

@@ -1,0 +1,30 @@
+{
+    "pos_x": 3194,
+    "pos_y": 2516,
+    "timesec": 23318,
+    "status": "безработный",
+    "tutorial": false,
+    "money": 100,
+    "season": "summer",
+    "timegame": "00:16",
+    "location": "zetta",
+    "name_chr": "davie504",
+    "lvl": 1,
+    "xp": 19,
+    "newlvlxp": 100,
+    "loving": 20,
+    "gender": "male",
+    "age": 25,
+    "day": "понедельник",
+    "year": 1982,
+    "hungry": 100,
+    "thirst": 100,
+    "health": 100,
+    "energy": 100,
+    "color_filter": [
+        34,
+        32,
+        60
+    ],
+    "alpha_filter": 150
+}
